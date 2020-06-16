@@ -1,7 +1,8 @@
-package com.manager.lastfm
+package com.manager.lastfm.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.manager.lastfm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

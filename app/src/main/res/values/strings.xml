@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LastFM</string>
+    <string name="text_progress">Loading</string>
 </resources>
