@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LastFM</string>
+    <string name="app_name">Last Sample</string>
     <string name="text_progress">Loading</string>
     <string name="hint_search">Search with album name</string>
 </resources>

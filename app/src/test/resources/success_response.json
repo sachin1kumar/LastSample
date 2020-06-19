@@ -1,0 +1,572 @@
+{
+  "results": {
+    "opensearch:Query": {
+      "#text": "",
+      "role": "request",
+      "searchTerms": "for",
+      "startPage": "1"
+    },
+    "opensearch:totalResults": "6169971",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "50",
+    "albummatches": {
+      "album": [
+        {
+          "name": "For Emma, Forever Ago",
+          "artist": "Bon Iver",
+          "url": "https://www.last.fm/music/Bon+Iver/For+Emma,+Forever+Ago",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d28dafe85cb24915a65f0dfd135c491b.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d28dafe85cb24915a65f0dfd135c491b.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d28dafe85cb24915a65f0dfd135c491b.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d28dafe85cb24915a65f0dfd135c491b.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "54216506-b050-3fc6-ae7c-472974d4dd69"
+        },
+         "mbid": "97f6f1d5-1c70-367d-a217-45cab7a31926"
+        },
+        {
+          "name": "Stories from the City, Stories from the Sea",
+          "artist": "PJ Harvey",
+          "url": "https://www.last.fm/music/PJ+Harvey/Stories+from+the+City,+Stories+from+the+Sea",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a892ee5436ba0a5a2e16f21ec32adebf.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a892ee5436ba0a5a2e16f21ec32adebf.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a892ee5436ba0a5a2e16f21ec32adebf.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a892ee5436ba0a5a2e16f21ec32adebf.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "64f0edbd-fcd5-46bc-9437-8f29f412c0c5"
+        },
+        {
+          "name": "Life for Rent",
+          "artist": "Dido",
+          "url": "https://www.last.fm/music/Dido/Life+for+Rent",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/030884f07b5c4e89bb5d7f644dc8ae1b.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/030884f07b5c4e89bb5d7f644dc8ae1b.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/030884f07b5c4e89bb5d7f644dc8ae1b.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/030884f07b5c4e89bb5d7f644dc8ae1b.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "398e0153-1af0-4052-a78d-d0120e80bc48"
+        },
+        {
+          "name": "FROOT",
+          "artist": "Marina & the Diamonds",
+          "url": "https://www.last.fm/music/Marina+&+the+Diamonds/FROOT",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e80d44d31495e28d961b0ff36d3c50.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e80d44d31495e28d961b0ff36d3c50.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e80d44d31495e28d961b0ff36d3c50.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e80d44d31495e28d961b0ff36d3c50.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "18b84712-8ef9-45b6-994b-19031ce4c201"
+        },
+        {
+          "name": "Forgiveness Rock Record",
+          "artist": "Broken Social Scene",
+          "url": "https://www.last.fm/music/Broken+Social+Scene/Forgiveness+Rock+Record",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3915413887b414584c6521b875ac1bd.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3915413887b414584c6521b875ac1bd.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3915413887b414584c6521b875ac1bd.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3915413887b414584c6521b875ac1bd.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "b04a480a-efd2-4227-954e-215450960946"
+        },
+        {
+          "name": "Beatles for Sale",
+          "artist": "The Beatles",
+          "url": "https://www.last.fm/music/The+Beatles/Beatles+for+Sale",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/24c1bc6fa6e54fdf86fd709caed380cb.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/24c1bc6fa6e54fdf86fd709caed380cb.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/24c1bc6fa6e54fdf86fd709caed380cb.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24c1bc6fa6e54fdf86fd709caed380cb.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "02e51dac-b0be-3de7-8465-02d0bcd409c3"
+        },
+        {
+          "name": "What Separates Me from You",
+          "artist": "A Day to Remember",
+          "url": "https://www.last.fm/music/A+Day+to+Remember/What+Separates+Me+from+You",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d05d163494c34751b14ba19f06d29676.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d05d163494c34751b14ba19f06d29676.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d05d163494c34751b14ba19f06d29676.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d05d163494c34751b14ba19f06d29676.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "7a4634ab-9466-4348-a17f-8337d555fc45"
+        },
+        {
+          "name": "Waiting for the Sun",
+          "artist": "The Doors",
+          "url": "https://www.last.fm/music/The+Doors/Waiting+for+the+Sun",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b9220dc9485e72befc07a1a952cbc3f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b9220dc9485e72befc07a1a952cbc3f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b9220dc9485e72befc07a1a952cbc3f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b9220dc9485e72befc07a1a952cbc3f.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "cffaf406-bc87-4633-9d99-cea7d6106bf6"
+        },
+        {
+          "name": "Lust For Life",
+          "artist": "Iggy Pop",
+          "url": "https://www.last.fm/music/Iggy+Pop/Lust+For+Life",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b68045da645548c783381464ba5cc8ce.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b68045da645548c783381464ba5cc8ce.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b68045da645548c783381464ba5cc8ce.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b68045da645548c783381464ba5cc8ce.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "e2cb1fb9-7117-4dae-9b40-9e5480301b9e"
+        },
+        {
+          "name": "Young for Eternity",
+          "artist": "The Subways",
+          "url": "https://www.last.fm/music/The+Subways/Young+for+Eternity",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6dae1d9e2ebe48abc85d44c1ee8edeab.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6dae1d9e2ebe48abc85d44c1ee8edeab.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6dae1d9e2ebe48abc85d44c1ee8edeab.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dae1d9e2ebe48abc85d44c1ee8edeab.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3"
+        },
+        {
+          "name": "Hooray for Boobies",
+          "artist": "Bloodhound Gang",
+          "url": "https://www.last.fm/music/Bloodhound+Gang/Hooray+for+Boobies",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/293afd8c6f224780a31332a7d364d1a3.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/293afd8c6f224780a31332a7d364d1a3.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/293afd8c6f224780a31332a7d364d1a3.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/293afd8c6f224780a31332a7d364d1a3.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "9cc4a6cf-e830-4971-abe9-1af4f17061e3"
+        },
+        {
+          "name": "Forget",
+          "artist": "Twin Shadow",
+          "url": "https://www.last.fm/music/Twin+Shadow/Forget",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46dbf56b5a234896c8176905bfd65635.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46dbf56b5a234896c8176905bfd65635.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46dbf56b5a234896c8176905bfd65635.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46dbf56b5a234896c8176905bfd65635.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "cb993d0e-2746-3983-8f7a-b2d1b270f4a2"
+        },
+        {
+          "name": "The Silent Force",
+          "artist": "Within Temptation",
+          "url": "https://www.last.fm/music/Within+Temptation/The+Silent+Force",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/484d612cd2ab4c33a9716a400ac63498.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/484d612cd2ab4c33a9716a400ac63498.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/484d612cd2ab4c33a9716a400ac63498.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/484d612cd2ab4c33a9716a400ac63498.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "b0d338fa-6935-4aa6-b891-a51c37217e43"
+        },
+        {
+          "name": "Lies For The Liars",
+          "artist": "The Used",
+          "url": "https://www.last.fm/music/The+Used/Lies+For+The+Liars",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79b94bd821ce482f867947b4eb5c7981.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79b94bd821ce482f867947b4eb5c7981.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79b94bd821ce482f867947b4eb5c7981.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79b94bd821ce482f867947b4eb5c7981.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "de7479bd-7149-397c-9dbe-f25a3c48bb4e"
+        },
+        {
+          "name": "For Blood and Empire",
+          "artist": "Anti-Flag",
+          "url": "https://www.last.fm/music/Anti-Flag/For+Blood+and+Empire",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c8921a6c60944e49cfa10ff933a06d3.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c8921a6c60944e49cfa10ff933a06d3.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c8921a6c60944e49cfa10ff933a06d3.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c8921a6c60944e49cfa10ff933a06d3.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "0336f287-16de-4918-835e-960e14045987"
+        },
+        {
+          "name": "Sorry for Party Rocking",
+          "artist": "LMFAO",
+          "url": "https://www.last.fm/music/LMFAO/Sorry+for+Party+Rocking",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d79a7a7b1ab3005bfa75cd1bbcd9066.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d79a7a7b1ab3005bfa75cd1bbcd9066.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d79a7a7b1ab3005bfa75cd1bbcd9066.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d79a7a7b1ab3005bfa75cd1bbcd9066.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "9197df9f-7f26-4498-af10-4eb5e67d6c8b"
+        },
+        {
+          "name": "Fortress",
+          "artist": "Protest the Hero",
+          "url": "https://www.last.fm/music/Protest+the+Hero/Fortress",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ded40e3bcabd81584b28703abce5a59d.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ded40e3bcabd81584b28703abce5a59d.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ded40e3bcabd81584b28703abce5a59d.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ded40e3bcabd81584b28703abce5a59d.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "1bdae9a8-1c33-310b-9f7a-a03bf9b24f66"
+        },
+        {
+          "name": "I Forget Where We Were",
+          "artist": "Ben Howard",
+          "url": "https://www.last.fm/music/Ben+Howard/I+Forget+Where+We+Were",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/18e6aec621b64f10cf5a99f8fcf234b0.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/18e6aec621b64f10cf5a99f8fcf234b0.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/18e6aec621b64f10cf5a99f8fcf234b0.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18e6aec621b64f10cf5a99f8fcf234b0.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "56093d48-8af0-4b4a-8ebe-1d907b1e5c6c"
+        },
+        {
+          "name": "Blues for the Red Sun",
+          "artist": "Kyuss",
+          "url": "https://www.last.fm/music/Kyuss/Blues+for+the+Red+Sun",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7dc18c3e3ad6d3a67c8af00b70a96098.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7dc18c3e3ad6d3a67c8af00b70a96098.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7dc18c3e3ad6d3a67c8af00b70a96098.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7dc18c3e3ad6d3a67c8af00b70a96098.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "42869337-4390-39af-899e-c585daef89a4"
+        },
+        {
+          "name": "Music for Men",
+          "artist": "Gossip",
+          "url": "https://www.last.fm/music/Gossip/Music+for+Men",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ed82a108c6242a6902fcccd206eac7b.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ed82a108c6242a6902fcccd206eac7b.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ed82a108c6242a6902fcccd206eac7b.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ed82a108c6242a6902fcccd206eac7b.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "a88424eb-0b23-4125-8c5c-9e7be1f43b3e"
+        },
+        {
+          "name": "Ready for the Weekend",
+          "artist": "Calvin Harris",
+          "url": "https://www.last.fm/music/Calvin+Harris/Ready+for+the+Weekend",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4daf20f42e2da55cf48d6af32f4c04f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4daf20f42e2da55cf48d6af32f4c04f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4daf20f42e2da55cf48d6af32f4c04f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4daf20f42e2da55cf48d6af32f4c04f.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "683d02c0-122f-4555-80ac-49c822023092"
+        },
+        {
+          "name": "Death Race For Love",
+          "artist": "Juice WRLD",
+          "url": "https://www.last.fm/music/Juice+WRLD/Death+Race+For+Love",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb8adca2d9edafdea0830672af1b0b9a.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb8adca2d9edafdea0830672af1b0b9a.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb8adca2d9edafdea0830672af1b0b9a.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb8adca2d9edafdea0830672af1b0b9a.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": ""
+        }
+      ]
+    },
+    "@attr": {
+      "for": "for"
+    }
+  }
+}
